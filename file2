@@ -1,10 +1,7 @@
 #####################
 Terraform
 Jenkins
-Ansivle
-
-
-
+Ansible
 
 ###################
 CloudWatch
@@ -12,7 +9,6 @@ CloudTrail
 Prometheus
 Grafana
 
-
-
 #################
 Done
+still many things to learn
